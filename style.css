@@ -1,0 +1,39 @@
+#number1{
+  border-radius: 10%;
+    border: 2px solid blue
+}
+
+#number2{
+  border-radius: 10%;
+    border: 2px solid blue
+}
+
+#number3{
+  border-radius: 10%;
+    border: 2px solid blue
+}
+
+#number4{
+  border-radius: 10%;
+    border: 2px solid blue
+}
+
+#sumButton:hover{
+  background-color: blue;
+  color: white;
+}
+
+#subButton:hover{
+  background-color: blue;
+  color: white;
+}
+
+#multiButton:hover{
+  background-color: blue;
+  color: white;
+}
+
+#divButton:hover{
+  background-color: blue;
+  color: white;
+}
